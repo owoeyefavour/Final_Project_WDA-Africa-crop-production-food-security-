@@ -1,4 +1,4 @@
-# Does More Crop Production Mean Less Hunger? (Analysis of Crop production vs Food security in Africa, 2010–2024)
+# Analysis of Crop production vs Food security in Africa, 2010–2024
 
 ## Introduction
 This project investigates whether increased crop production guarantees improved food 
@@ -26,9 +26,10 @@ Increased crop production does not guarantee improved food security in Africa �
 ## Files in This Repository
 | File | Description |
 |---|---|
-| `Final Project Report_WDA.docx` | Full written report: introduction, analysis questions, objectives, data cleaning and transformation, visualization, insights, recommendations, and conclusion |
-| `Final Project_Powerpoint.pptx` | Presentation deck summarizing the analysis for defense |
-| `Final Project_WDA_FAOSTATS.pbix` | Power BI file containing the full interactive dashboard and data model |
+| `Project Report_WDA.docx` | Full written report: introduction, analysis questions, objectives, data cleaning and transformation, visualization, insights, recommendations, and conclusion |
+| `Project Report_WDA.pdf` | Full written report: introduction, analysis questions, objectives, data cleaning and transformation, visualization, insights, recommendations, and conclusion |
+| `Project_Powerpoint.pptx` | Presentation deck summarizing the analysis for defense |
+| `Project_WDA_FAOSTATS.pbix` | Power BI file containing the full interactive dashboard and data model |
 | `FAOSTAT_Data_Crop_Production_Africa.csv` | Raw Dataset |
 | `FAOSTAT_Data_Food_Security_Africa.csv` | Raw Dataset |
 
